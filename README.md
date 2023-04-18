@@ -19,7 +19,7 @@
 Before clicking on deploy to heroku just click on fork and star just below
 
 <p align="center">
-  <a href="https://github.com/LushaiMusic/VCsMusicBot/fork">
+  <a href="https://github.com/DIGITALBOTXD/VCsMusicBot/fork">
     <img src="https://img.shields.io/github/forks/LushaiMusic/VCsMusicBot?label=Fork&style=social">
     
   </a>
@@ -43,10 +43,6 @@ Before clicking on deploy to heroku just click on fork and star just below
 
 - Click the below button to watch the video tutorial on deploying
 
-<a href="https://youtu.be/koAzUgNQaDU"><img src="https://img.shields.io/badge/How%20To%20Deploy%20on%20Heroku-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/koAzUgNQaDU"><img src="https://img.shields.io/youtube/views/koAzUgNQaDU?style=social">
-
-
 ###  GET STRING SESSION FROM REPL RUN
 
  [![Run on Repl.it](https://camo.githubusercontent.com/05149b448485553c6f14f6430a45c12dcc79ed3c/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f6a61727669733231303930342f4a6172766973)](https://replit.com/@ZauteKm/GenerateStringSession#main.py)
@@ -54,7 +50,7 @@ Before clicking on deploy to heroku just click on fork and star just below
 ### Deploy to VPS 🏃
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/LushaiMusic/VCsMusicBot
+$ git clone https://github.com/DIGITALBOTXD/VCsMusicBot
 $ cd VCsMusicBot
 # Upgrade sources
 # Install All Requirements 
@@ -123,7 +119,7 @@ $ python3 -m VCsMusicBot
 If you donlt like to play in linked channel:
  1. Get your channel ID.
  2. Rename your group to: Channel Music: your_channel_id
- 3. Add [@VCsMusicPlayer](https://t.me/VCsMusicPlayer) as Channel admin with full perms
+ 3. Add [@XD_BOTZZ](https://t.me/XD_BOTZZ) as Channel admin with full perms
  4. add helper to channel
  5. Simply send commands in your group.
 
@@ -139,5 +135,4 @@ If you donlt like to play in linked channel:
 
 ### Credits
 #### Special Credits
-- [Zaute-Km](https://github.com/Zaute-Km): LushaiMusic Developer
-- [Rojserbest](http://github.com/rojserbest): Callsmusic Developer
+- [ROCKY](https://github.com/DIGITALBOTXD): LushaiMusic Developer
