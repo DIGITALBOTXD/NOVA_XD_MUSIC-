@@ -1,10 +1,10 @@
-<h1 align="centre">VCsMusicBot v5.0</h1>
+<h1 align="centre">XDMusicBot v5.0</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 
 <p align="center">
-  <a href="https://github.com/LushaiMusic/VCsMusicBot">
-     <img height="30px" src="https://img.shields.io/badge/Group%20Music%20Bot-red?style=for-the-badge&logo=github">
+  <a href="https://github.com/DIGITALBOTXD/VCsMusicBot">
+     <img height="30px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fcreative-letter-xd-logo-vector-260nw-1662337936.jpg&tbnid=h8YbMj8s7rpMYM&vet=12ahUKEwixrauJuLP-AhUxALcAHa2UDdwQMygBegUIARDhAQ..i&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fxd&docid=jIsF5RYeq2M1EM&w=260&h=280&q=XD%20PIC&ved=2ahUKEwixrauJuLP-AhUxALcAHa2UDdwQMygBegUIARDhAQ">
   </a>
 </p>
 
