@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="(https://te.legra.ph/file/71f82425397df26b1ad6d.jpg)">
-     <img height="200px" src="https://te.legra.ph/file/71f82425397df26b1ad6d.jpg">
+     <img height="500px" src="https://te.legra.ph/file/71f82425397df26b1ad6d.jpg">
   </a>
 </p>
 
