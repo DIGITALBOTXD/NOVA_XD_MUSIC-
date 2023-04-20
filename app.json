@@ -26,12 +26,12 @@
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
-      "value": "tgVCSets"
+      "value": "XD_BOTZZ"
     },
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
       "required": false,
-      "value": "VCsMusicBot"
+      "value": "XDBot"
     },
     "ASSISTANT_NAME": {
       "description": "Your MusicPlayer's assistant Username without @.",
@@ -45,12 +45,12 @@
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
       "required": false,
-      "value": "https://telegra.ph/file/cf19dda907391656338eb.png"
+      "value": "https://te.legra.ph/file/71f82425397df26b1ad6d.jpg"
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
       "required": false,
-      "value": "ZauteKm"
+      "value": "XD_MUSIC_BOTZ"
     },    
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
